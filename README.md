@@ -20,7 +20,7 @@ A simple React app that checks the strength of passwords.
 ## How to install
 - Clone this repository.
 ```sh
-git clone https://github.com/RafayDoe/Password-Strength-Checker/tree/main.git
+git clone https://github.com/RafayDoe/Password-Strength-Checker.git
 ```
 - Navigate to current folder.
 - Install Dependencies.
