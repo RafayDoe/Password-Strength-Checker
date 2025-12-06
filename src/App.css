@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 90%;
+    height: 20px;
+    border-radius: 6px;
+    outline: none;
+    border: 1px solid hsl(0, 0%, 43%);
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
