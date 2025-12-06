@@ -27,7 +27,7 @@ git clone https://github.com/RafayDoe/Password-Strength-Checker/tree/main.git
 - Start the development server.
 
 ## Tech Stack
-Javascript
-React
-Inline CSS
-Vite
+- Javascript
+- React
+- Inline CSS
+- Vite
